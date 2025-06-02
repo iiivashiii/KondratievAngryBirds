@@ -94,5 +94,26 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+ <ItemGroup>
+   <Resource Include="images\vid-na-zamok-s-prirodnym-landsaftom.jpg" />
+ </ItemGroup>
+ <ItemGroup>
+   <Resource Include="images\замок.png" />
+ </ItemGroup>
+ <ItemGroup>
+   <Resource Include="images\земля.jpg" />
+ </ItemGroup>
+ <ItemGroup>
+   <Resource Include="images\катапульта.png" />
+ </ItemGroup>
+ <ItemGroup>
+   <Resource Include="images\птица 1.png" />
+ </ItemGroup>
+ <ItemGroup>
+   <Resource Include="images\свин.png" />
+ </ItemGroup>
+ <ItemGroup>
+   <Resource Include="images\kamni-svaa.png" />
+ </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
