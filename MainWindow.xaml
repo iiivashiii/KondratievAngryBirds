@@ -4,14 +4,14 @@
         Title="Angry Birds Simplified" Height="600" Width="1200">
     <Canvas Name="gameCanvas">
         <Canvas.Background>
-            <ImageBrush ImageSource="C:\Users\k4pt0\OneDrive\Рабочий стол\AngryBird\images\vid-na-zamok-s-prirodnym-landsaftom.jpg"/>
+            <ImageBrush ImageSource="images\vid-na-zamok-s-prirodnym-landsaftom.jpg"/>
         </Canvas.Background>
-        <Image Name="pig" Width="200" Height="150" Source ="C:\Users\k4pt0\OneDrive\Рабочий стол\AngryBird\images\свин.png" Stretch ="Fill" Canvas.Left="850" Canvas.Top="510" HorizontalAlignment="Center" VerticalAlignment="Top"/>
-        <Image Name="slingshot" Width ="170" Height="100"  Source ="C:\Users\k4pt0\OneDrive\Рабочий стол\AngryBird\images\катапульта.png" Stretch ="Fill" Canvas.Left="140" Canvas.Top="375"/>
-        <Image Name="castle" Width ="340" Height="400"  Source ="C:\Users\k4pt0\OneDrive\Рабочий стол\AngryBird\images\замок.png" Stretch ="Fill" Canvas.Left="50" Canvas.Top="340"/>
-        <Image Name="bird" Width="70" Height="60" Source ="C:\Users\k4pt0\OneDrive\Рабочий стол\AngryBird\images\птица 1.png" Stretch ="Fill" Canvas.Left="160" Canvas.Top="355" HorizontalAlignment="Left" VerticalAlignment="Center"/>
-        <Image  Name ="kamni" Width ="132" Height="500"  Source ="C:\Users\k4pt0\OneDrive\Рабочий стол\AngryBird\images\kamni-svaa.png" Stretch ="Fill" Canvas.Left="600" Canvas.Top="200"/>
-        <Image  Name="land" Width ="2000" Height="30"  Source ="C:\Users\k4pt0\OneDrive\Рабочий стол\AngryBird\images\земля.jpg" Stretch ="Fill" Canvas.Left="0" Canvas.Top="640" HorizontalAlignment="Left" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5">
+        <Image Name="pig" Width="200" Height="150" Source ="images\свин.png" Stretch ="Fill" Canvas.Left="850" Canvas.Top="510" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Image Name="slingshot" Width ="170" Height="100"  Source ="images\катапульта.png" Stretch ="Fill" Canvas.Left="140" Canvas.Top="375"/>
+        <Image Name="castle" Width ="340" Height="400"  Source ="images\замок.png" Stretch ="Fill" Canvas.Left="50" Canvas.Top="340"/>
+        <Image Name="bird" Width="70" Height="60" Source ="images\птица 1.png" Stretch ="Fill" Canvas.Left="160" Canvas.Top="355" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Image  Name ="kamni" Width ="132" Height="500"  Source ="images\kamni-svaa.png" Stretch ="Fill" Canvas.Left="600" Canvas.Top="200"/>
+        <Image  Name="land" Width ="2000" Height="30"  Source ="images\земля.jpg" Stretch ="Fill" Canvas.Left="0" Canvas.Top="640" HorizontalAlignment="Left" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5">
             <Image.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
